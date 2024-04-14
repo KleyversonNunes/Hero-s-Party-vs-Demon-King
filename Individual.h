@@ -1,8 +1,6 @@
 #define INDIVIDUAL_H
-#include <iostream>
 #include <string>
 using std::string;
-using std::cout;
 
 class Individual
 {
